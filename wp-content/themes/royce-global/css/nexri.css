@@ -1,0 +1,51 @@
+#cssmenu > ul { max-width:100%; }
+
+#cssmenu a#pull{ color:#fff; }
+
+
+
+
+
+
+
+
+@media screen and (max-width: 767px){ 
+
+#wide-content ul{ margin-left:0px; display:block; clear:both; }
+
+.m-mmm img,
+#wide-content img { margin: auto !important;
+float: none !important;
+ 
+width: auto ;
+display: block; }
+
+#wide-content .image-style-logobottom{ text-align:center; }
+.image-style-about img { position:relative; }
+.image-style-about,
+.image-style99.image-style4a{ display:block; clear:both; float:none; padding:10px 0; width:100%; text-align:center; height:auto; }
+
+#searchForm td{ display:block; text-align:left; }
+ 
+#searchForm .min_max{ display:none; }
+ 
+#searchForm select#typeField { width:150px; }
+ 
+#pw_listing_widget .listTable  td{ display:block; clear:both; width:100%; }
+ 
+ 
+ #pw_listing_widget_tabs_map div{ text-align:center; }
+ 
+ .m-mmm{ display:inline-block; width:100%; clear:both; text-align:center;  }
+
+#fivrr label{ font-size:14px; line-height:24px; }
+
+body .image-style-services { height:auto !important; width:100% !important; margin:0px; }
+ .image-style-services img { position:relative; }
+ 
+ .image-style-owner,
+ .image-style-owner,
+ .image-style-manage { height:200px; }
+ 
+}
+

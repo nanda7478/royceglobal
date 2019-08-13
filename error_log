@@ -1,0 +1,67 @@
+[05-Jul-2018 08:38:51 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/home-page.php on line 183
+[05-Jul-2018 09:05:26 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/home-page.php on line 250
+[05-Jul-2018 09:05:28 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/home-page.php on line 250
+[05-Jul-2018 10:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function reset_postdata() in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/home-page.php:324
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/royceglobal1/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/home-page.php on line 324
+[05-Jul-2018 12:17:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/about-page.php on line 104
+[06-Jul-2018 05:50:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/plugins/advanced-custom-fields-pro/core/cache.php on line 214
+[06-Jul-2018 11:24:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/single-product.php on line 21
+[10-Jul-2018 05:11:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_blog() in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/footer.php:20
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template.php(688): require_once()
+#1 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template.php(647): load_template('/home4/trimurty...', true)
+#2 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/index.php(133): get_footer()
+#4 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/trimurty/demosrvr.com/wp/royceglobal1/index.php(17): require('/home4/trimurty...')
+#7 {main}
+  thrown in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/footer.php on line 20
+[10-Jul-2018 05:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_blog() in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/footer.php:20
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template.php(688): require_once()
+#1 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template.php(647): load_template('/home4/trimurty...', true)
+#2 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/home-page.php(342): get_footer()
+#4 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/trimurty/demosrvr.com/wp/royceglobal1/index.php(17): require('/home4/trimurty...')
+#7 {main}
+  thrown in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/footer.php on line 20
+[10-Jul-2018 05:35:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_blog() in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/footer.php:20
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template.php(688): require_once()
+#1 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template.php(647): load_template('/home4/trimurty...', true)
+#2 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/home-page.php(342): get_footer()
+#4 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/trimurty/demosrvr.com/wp/royceglobal1/index.php(17): require('/home4/trimurty...')
+#7 {main}
+  thrown in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/footer.php on line 20
+[11-Jul-2018 04:47:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_gooter() in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/demo-page.php:214
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/royceglobal1/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/demo-page.php on line 214
+[11-Jul-2018 04:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_gooter() in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/demo-page.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/royceglobal1/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/demo-page.php on line 66
+[11-Jul-2018 04:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_gooter() in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/demo-page.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/royceglobal1/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/demosrvr.com/wp/royceglobal1/wp-content/themes/royce-global/custom-templates/demo-page.php on line 66
